@@ -148,3 +148,11 @@ switch (a) {
     console.log("a is not 10 or 20");
     break;
 }
+
+// function
+
+function add(a, b) {
+  return a + b;
+}
+
+console.log(add(10, 20));
