@@ -176,3 +176,8 @@ function add(b, c) {
   return b % c;
 }
 console.log(add(10, 20));
+
+function add(b, c) {
+  return b ** c;
+}
+console.log(add(10, 20));
